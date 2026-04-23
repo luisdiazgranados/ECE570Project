@@ -1,0 +1,8 @@
+.env
+data/features/
+data/annotations/
+*.mp3
+*.wav
+__pycache__/
+*.pyc
+.DS_Store

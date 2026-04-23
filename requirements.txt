@@ -1,0 +1,10 @@
+librosa==0.11.0
+opensmile==2.6.0
+scikit-learn==1.7.2
+joblib==1.5.2
+pandas==2.3.3
+numpy==2.3.5
+requests==2.32.5
+yt-dlp==2026.3.17
+spotipy==2.26.0
+python-dotenv==1.1.0
